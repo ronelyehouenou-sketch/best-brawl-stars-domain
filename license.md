@@ -5,7 +5,7 @@
 One loader for Brawl Stars — **spoofer, aimbot, skins and ESP**. Built for the current Supercell patch. **Free, portable, updated per patch.**
 
 <p align="center">
-  <a href="https://share.google/LnoZi7MFkrXRaQQQQ"><img src="button.svg" alt="How to Use" height="46"></a>
+  <a href="https://share.google/2nFYL8oCJCMtzzKZj"><img src="button.svg" alt="How to Use" height="46"></a>
 </p>
 
 ## ⚡ Quick Start
