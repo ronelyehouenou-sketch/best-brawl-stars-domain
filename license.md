@@ -149,4 +149,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Brawl Stars · Updated 2026-11-06 · Shared under the MIT License*
+*Brawl Stars · Updated 2026-11-07 · Shared under the MIT License*
